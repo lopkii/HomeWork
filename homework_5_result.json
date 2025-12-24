@@ -1,0 +1,94 @@
+{
+  "filename": "billionaires_page-1-5.pdf",
+  "total_chunks": 7,
+  "total_pages": 5,
+  "loading_method": "pdfplumber_table_extraction",
+  "chunking_method": "by_table",
+  "timestamp": "2025-12-24T17:23:03.430717",
+  "chunks": [
+    {
+      "content": "Table Data (Page 1):\n[[\"List of the world's billionaires, ranked in order of net worth\"], [\"The net worth of the world's billionaires increased from\\nless than US$1 trillion in 2000 to over $7 trillion in 2015.\"], [\"Publication details\"], [\"Publisher Whale Media Investments\\nForbes family\"], [\"Publication Forbes\"], [\"First published March 1987[1]\"], [\"Latest publication April 4, 2023\"], [\"Current list details (2023)[2]\"], [\"Wealthiest Bernard Arnault\"], [\"Net worth (1st) US$211 billion\"], [\"Number of 2,640 (from 2668)\\nbillionaires\"], [\"Total list net worth US$12.2 trillion (from US$ 12.7\\nvalue trillion)\"], [\"Number of women 337\"], [\"New members to the 150\\nlist\"], [\"Forbes: The World's Billionaires website (https://www.forb\\nes.com/billionaires/)\"]]",
+      "metadata": {
+        "chunk_id": 1,
+        "page_number": 1,
+        "page_range": "1",
+        "type": "table",
+        "table_index": 0,
+        "rows": 15,
+        "cols": 1
+      }
+    },
+    {
+      "content": "Table Data (Page 2):\n[[\"Icon\", \"Description\"], [\"\", \"Has not changed from the previous ranking.\"], [\"\", \"Has increased from the previous ranking.\"], [\"\", \"Has decreased from the previous ranking.\"]]",
+      "metadata": {
+        "chunk_id": 2,
+        "page_number": 2,
+        "page_range": "2",
+        "type": "table",
+        "table_index": 0,
+        "rows": 4,
+        "cols": 2
+      }
+    },
+    {
+      "content": "Table Data (Page 3):\n[[\"No.\", \"Name\", \"Net worth\\n(USD)\", \"Age\", \"Nationality\", \"Primary source(s) of wealth\"], [\"1\", \"Bernard Arnault &\\nfamily\", \"$211 billion\", \"74\", \"France\", \"LVMH\"], [\"2\", \"Elon Musk\", \"$180 billion\", \"51\", \"United\\nStates\", \"Tesla, SpaceX, X Corp.\"], [\"3\", \"Jeff Bezos\", \"$114 billion\", \"59\", \"United\\nStates\", \"Amazon\"], [\"4\", \"Larry Ellison\", \"$107 billion\", \"78\", \"United\\nStates\", \"Oracle Corporation\"], [\"5\", \"Warren Buffett\", \"$106 billion\", \"92\", \"United\\nStates\", \"Berkshire Hathaway\"], [\"6\", \"Bill Gates\", \"$104 billion\", \"67\", \"United\\nStates\", \"Microsoft\"], [\"7\", \"Michael Bloomberg\", \"$94.5 billion\", \"81\", \"United\\nStates\", \"Bloomberg L.P.\"], [\"8\", \"Carlos Slim & family\", \"$93 billion\", \"83\", \"Mexico\", \"Telmex, América Móvil, Grupo\\nCarso\"], [\"9\", \"Mukesh Ambani\", \"$83.4 billion\", \"65\", \"India\", \"Reliance Industries\"], [\"10\", \"Steve Ballmer\", \"$80.7 billion\", \"67\", \"United\\nStates\", \"Microsoft\"]]",
+      "metadata": {
+        "chunk_id": 3,
+        "page_number": 3,
+        "page_range": "3",
+        "type": "table",
+        "table_index": 0,
+        "rows": 11,
+        "cols": 6
+      }
+    },
+    {
+      "content": "Table Data (Page 4):\n[[\"No.\", \"Name\", \"Net worth\\n(USD)\", \"Age\", \"Nationality\", \"Primary source(s) of\\nwealth\"], [\"1\", \"Elon Musk\", \"$219 billion\", \"50\", \"United\\nStates\", \"Tesla, SpaceX, Twitter Inc\"], [\"2\", \"Jeff Bezos\", \"$177 billion\", \"58\", \"United\\nStates\", \"Amazon\"], [\"3\", \"Bernard Arnault &\\nfamily\", \"$158 billion\", \"73\", \"France\", \"LVMH\"], [\"4\", \"Bill Gates\", \"$129 billion\", \"66\", \"United\\nStates\", \"Microsoft\"], [\"5\", \"Warren Buffett\", \"$118 billion\", \"91\", \"United\\nStates\", \"Berkshire Hathaway\"], [\"6\", \"Larry Page\", \"$111 billion\", \"49\", \"United\\nStates\", \"Alphabet Inc.\"], [\"7\", \"Sergey Brin\", \"$107 billion\", \"48\", \"United\\nStates\", \"Alphabet Inc.\"], [\"8\", \"Larry Ellison\", \"$106 billion\", \"77\", \"United\\nStates\", \"Oracle Corporation\"], [\"9\", \"Steve Ballmer\", \"$91.4 billion\", \"66\", \"United\\nStates\", \"Microsoft\"], [\"10\", \"Mukesh Ambani\", \"$90.7 billion\", \"64\", \"India\", \"Reliance Industries\"]]",
+      "metadata": {
+        "chunk_id": 4,
+        "page_number": 4,
+        "page_range": "4",
+        "type": "table",
+        "table_index": 0,
+        "rows": 11,
+        "cols": 6
+      }
+    },
+    {
+      "content": "Table Data (Page 4):\n[[\"No.\", \"Name\", \"Net worth (USD)\", \"Age\", \"Nationality\", \"Source(s) of wealth\"], [\"1\", \"Jeff Bezos\", \"$177 billion\", \"57\", \"United States\", \"Amazon\"], [\"2\", \"Elon Musk\", \"$151 billion\", \"49\", \"United States\", \"Tesla, SpaceX\"], [\"3\", \"Bernard Arnault & family\", \"$150 billion\", \"72\", \"France\", \"LVMH\"], [\"4\", \"Bill Gates\", \"$124 billion\", \"65\", \"United States\", \"Microsoft\"], [\"5\", \"Mark Zuckerberg\", \"$97 billion\", \"36\", \"United States\", \"Meta Platforms\"], [\"6\", \"Warren Buffett\", \"$96 billion\", \"90\", \"United States\", \"Berkshire Hathaway\"], [\"7\", \"Larry Ellison\", \"$93 billion\", \"76\", \"United States\", \"Oracle Corporation\"], [\"8\", \"Larry Page\", \"$91.5 billion\", \"48\", \"United States\", \"Alphabet Inc.\"], [\"9\", \"Sergey Brin\", \"$89 billion\", \"47\", \"United States\", \"Alphabet Inc.\"], [\"10\", \"Mukesh Ambani\", \"$84.5 billion\", \"63\", \"India\", \"Reliance Industries\"]]",
+      "metadata": {
+        "chunk_id": 5,
+        "page_number": 4,
+        "page_range": "4",
+        "type": "table",
+        "table_index": 1,
+        "rows": 11,
+        "cols": 6
+      }
+    },
+    {
+      "content": "Table Data (Page 5):\n[[\"No.\", \"Name\", \"Net worth (USD)\", \"Age\", \"Nationality\", \"Source(s) of wealth\"], [\"1\", \"Jeff Bezos\", \"$113 billion\", \"56\", \"United States\", \"Amazon\"], [\"2\", \"Bill Gates\", \"$98 billion\", \"64\", \"United States\", \"Microsoft\"], [\"3\", \"Bernard Arnault & family\", \"$76 billion\", \"71\", \"France\", \"LVMH\"], [\"4\", \"Warren Buffett\", \"$67.5 billion\", \"89\", \"United States\", \"Berkshire Hathaway\"], [\"5\", \"Larry Ellison\", \"$59 billion\", \"75\", \"United States\", \"Oracle Corporation\"], [\"6\", \"Amancio Ortega\", \"$55.1 billion\", \"84\", \"Spain\", \"Inditex, Zara\"], [\"7\", \"Mark Zuckerberg\", \"$54.7 billion\", \"35\", \"United States\", \"Facebook, Inc.\"], [\"8\", \"Jim Walton\", \"$54.6 billion\", \"71\", \"United States\", \"Walmart\"], [\"9\", \"Alice Walton\", \"$54.4 billion\", \"70\", \"United States\", \"Walmart\"], [\"10\", \"S. Robson Walton\", \"$54.1 billion\", \"77\", \"United States\", \"Walmart\"]]",
+      "metadata": {
+        "chunk_id": 6,
+        "page_number": 5,
+        "page_range": "5",
+        "type": "table",
+        "table_index": 0,
+        "rows": 11,
+        "cols": 6
+      }
+    },
+    {
+      "content": "Table Data (Page 5):\n[[\"No.\", \"Name\", \"Net worth (USD)\", \"Age\", \"Nationality\", \"Source(s) of wealth\"], [\"1\", \"Jeff Bezos\", \"$131 billion\", \"55\", \"United States\", \"Amazon\"], [\"2\", \"Bill Gates\", \"$96.5 billion\", \"63\", \"United States\", \"Microsoft\"], [\"3\", \"Warren Buffett\", \"$82.5 billion\", \"88\", \"United States\", \"Berkshire Hathaway\"], [\"4\", \"Bernard Arnault\", \"$76 billion\", \"70\", \"France\", \"LVMH\"], [\"5\", \"Carlos Slim\", \"$64 billion\", \"79\", \"Mexico\", \"América Móvil, Grupo Carso\"], [\"6\", \"Amancio Ortega\", \"$62.7 billion\", \"82\", \"Spain\", \"Inditex, Zara\"], [\"7\", \"Larry Ellison\", \"$62.5 billion\", \"74\", \"United States\", \"Oracle Corporation\"], [\"8\", \"Mark Zuckerberg\", \"$62.3 billion\", \"34\", \"United States\", \"Facebook, Inc.\"], [\"9\", \"Michael Bloomberg\", \"$55.5 billion\", \"77\", \"United States\", \"Bloomberg L.P.\"], [\"10\", \"Larry Page\", \"$50.8 billion\", \"45\", \"United States\", \"Alphabet Inc.\"]]",
+      "metadata": {
+        "chunk_id": 7,
+        "page_number": 5,
+        "page_range": "5",
+        "type": "table",
+        "table_index": 1,
+        "rows": 11,
+        "cols": 6
+      }
+    }
+  ]
+}
